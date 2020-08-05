@@ -22,10 +22,14 @@
 
 ![Results](https://github.com/BigBear-X/Learning-Notes/blob/master/拓扑优化/Figures/Nervi's%20design-result-Xin.JPG?raw=true)
 
-## An half ring
+## A half ring
 
-> The solid material is assumed with Young’s modulus of 1 MPa and Poisson’s ratio of 0.3 for example. The filter radius rmin = 2mm VF=0.4 Pressure=1e-2
+> A half ring with 50mm and 20mm radii. The solid material is assumed with Young’s modulus of 1 MPa and Poisson’s ratio of 0.3 for example. The filter radius rmin = 2mm VF=0.4 Pressure=1e-2
 
 ![Boundary conditions](https://github.com/BigBear-X/Learning-Notes/blob/master/拓扑优化/Figures/a%20half%20ring%20BC.JPG?raw=true)
 
 ![Results](https://github.com/BigBear-X/Learning-Notes/blob/master/拓扑优化/Figures/a%20half%20ring%20result.JPG?raw=true)
+
+## an arch-shaped long bridge
+
+> an arch-shaped bridge design with a 72 m arch clear-span and a maximum ramp slope limited to 1 : 20 that results in a maximum arch depth of about 1,8 m. According to the design code, a static loading of 4 kPa pressure was applied to the deck of the bridge. a roller at the bottom of one pier and a pin at the other.
