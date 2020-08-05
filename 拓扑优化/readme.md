@@ -21,3 +21,11 @@
 ![Boundary conditions](https://github.com/BigBear-X/Learning-Notes/blob/master/拓扑优化/Figures/Nervi's%20design-BC.JPG?raw=true)
 
 ![Results](https://github.com/BigBear-X/Learning-Notes/blob/master/拓扑优化/Figures/Nervi's%20design-result-Xin.JPG?raw=true)
+
+## An half ring
+
+> The solid material is assumed with Young’s modulus of 1 MPa and Poisson’s ratio of 0.3 for example. The filter radius rmin = 2mm VF=0.4 Pressure=1e-2
+
+![Boundary conditions](https://github.com/BigBear-X/Learning-Notes/blob/master/拓扑优化/Figures/a%20half%20ring%20BC.JPG?raw=true)
+
+![Results](https://github.com/BigBear-X/Learning-Notes/blob/master/拓扑优化/Figures/a%20half%20ring%20result.JPG?raw=true)
